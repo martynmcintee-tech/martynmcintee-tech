@@ -7,11 +7,7 @@
 ### Featured Open-Source Engineering
 
 <p align="center">
-  <a href="https://github.com/martynmcintee-tech/synapse-mind">
-    <img src="./assets/card_synapse_mind.svg" width="49%" alt="synapse-mind — Bio-inspired 13-model continual-learning cognitive partner" />
-  </a>&nbsp;<a href="https://github.com/martynmcintee-tech/corsair-titan-lcd-linux">
-    <img src="./assets/card_corsair_titan_lcd.svg" width="49%" alt="corsair-titan-lcd-linux — 13-theme circular Linux AIO display engine & C64 Little Computer People house" />
-  </a>
+  <a href="https://github.com/martynmcintee-tech/synapse-mind"><img src="./assets/card_synapse_mind.svg" width="49%" alt="synapse-mind — Bio-inspired 13-model continual-learning cognitive partner" /></a>&nbsp;&nbsp;<a href="https://github.com/martynmcintee-tech/corsair-titan-lcd-linux"><img src="./assets/card_corsair_titan_lcd.svg" width="49%" alt="corsair-titan-lcd-linux — 13-theme circular Linux AIO display engine & C64 Little Computer People house" /></a>
 </p>
 
 <details>
