@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 215" width="580" height="215" role="img" aria-label="synapse-mind repository card">
+  <defs>
+    <linearGradient id="cardBg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="topBar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="578" height="213" rx="14" fill="url(#cardBg1)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="24" y="1" width="180" height="2.5" rx="1.25" fill="url(#topBar1)"/>
+
+  <!-- Icon + Repo Title -->
+  <g transform="translate(24, 24)">
+    <rect x="0" y="0" width="34" height="34" rx="8" fill="#1E293B" stroke="#38BDF8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <circle cx="11" cy="12" r="2.8" fill="#38BDF8"/>
+    <circle cx="23" cy="11" r="2.8" fill="#818CF8"/>
+    <circle cx="17" cy="23" r="3.2" fill="#E0F2FE"/>
+    <line x1="11" y1="12" x2="23" y2="11" stroke="#38BDF8" stroke-width="1.2"/>
+    <line x1="11" y1="12" x2="17" y2="23" stroke="#38BDF8" stroke-width="1.2"/>
+    <line x1="23" y1="11" x2="17" y2="23" stroke="#818CF8" stroke-width="1.2"/>
+
+    <text x="46" y="16" fill="#94A3B8" font-size="11.5" class="mono">martynmcintee-tech /</text>
+    <text x="46" y="34" fill="#F8FAFC" font-size="19" font-weight="700" class="sans">synapse-mind</text>
+
+    <rect x="448" y="4" width="84" height="24" rx="12" fill="#0C192C" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="490" y="20" text-anchor="middle" fill="#38BDF8" font-size="10.5" font-weight="600" class="mono">LOCAL AI</text>
+  </g>
+
+  <!-- Description -->
+  <text x="24" y="88" fill="#CBD5E1" font-size="13.5" class="sans">Bio-inspired 13-model continual-learning cognitive partner &amp; neural</text>
+  <text x="24" y="108" fill="#CBD5E1" font-size="13.5" class="sans">co-working studio engineered for consumer 24GB GPUs + NVMe Direct I/O.</text>
+
+  <!-- Feature Pills -->
+  <g transform="translate(24, 128)">
+    <rect x="0" y="0" width="166" height="24" rx="6" fill="#111C2E" stroke="#1E293B" stroke-width="1"/>
+    <text x="83" y="16" text-anchor="middle" fill="#93C5FD" font-size="10.5" class="mono">Zero-Eviction BGE-M3</text>
+
+    <rect x="174" y="0" width="164" height="24" rx="6" fill="#111C2E" stroke="#1E293B" stroke-width="1"/>
+    <text x="256" y="16" text-anchor="middle" fill="#C7D2FE" font-size="10.5" class="mono">Oja Hebbian 13×13</text>
+
+    <rect x="346" y="0" width="186" height="24" rx="6" fill="#111C2E" stroke="#1E293B" stroke-width="1"/>
+    <text x="439" y="16" text-anchor="middle" fill="#CBD5E1" font-size="10.5" class="mono">Hopfield Recall + TD(λ)</text>
+  </g>
+
+  <!-- Footer -->
+  <g transform="translate(24, 176)">
+    <circle cx="6" cy="6" r="5" fill="#3572A5"/>
+    <text x="18" y="10" fill="#94A3B8" font-size="12" class="sans">Python  ·  llama.cpp Router  ·  SQLite WAL  ·  RTX 3090 / 4090</text>
+    <text x="532" y="10" text-anchor="end" fill="#38BDF8" font-size="12" font-weight="600" class="mono">Explore →</text>
+  </g>
+</svg>
