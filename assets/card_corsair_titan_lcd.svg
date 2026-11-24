@@ -29,12 +29,12 @@
     <text x="46" y="34" fill="#F8FAFC" font-size="19" font-weight="700" class="sans">corsair-titan-lcd-linux</text>
 
     <rect x="434" y="4" width="98" height="24" rx="12" fill="#1C160C" stroke="#F59E0B" stroke-opacity="0.45" stroke-width="1"/>
-    <text x="483" y="20" text-anchor="middle" fill="#FBBF24" font-size="10.5" font-weight="600" class="mono">LINUX + C64</text>
+    <text x="483" y="20" text-anchor="middle" fill="#FBBF24" font-size="10.5" font-weight="600" class="mono">LCP 2026</text>
   </g>
 
   <!-- Description -->
-  <text x="24" y="88" fill="#CBD5E1" font-size="13.5" class="sans">13-theme circular 480×480 Linux telemetry engine &amp; autonomous 1985</text>
-  <text x="24" y="108" fill="#CBD5E1" font-size="13.5" class="sans">Commodore 64 'Little Computer People' house for Corsair TITAN RX LCDs.</text>
+  <text x="24" y="88" fill="#CBD5E1" font-size="13.5" class="sans">LCP 2026 autonomous pixel life &amp; town engine (9–5 schedule, EV car,</text>
+  <text x="24" y="108" fill="#CBD5E1" font-size="13.5" class="sans">11 venues, funny thoughts &amp; GTK4 widget) + 13 circular 480×480 AIO faces.</text>
 
   <!-- Feature Pills -->
   <g transform="translate(24, 128)">
@@ -42,10 +42,10 @@
     <text x="83" y="16" text-anchor="middle" fill="#FCD34D" font-size="10.5" class="mono">~11ms HTTP Keep-Alive</text>
 
     <rect x="174" y="0" width="168" height="24" rx="6" fill="#111C2E" stroke="#1E293B" stroke-width="1"/>
-    <text x="258" y="16" text-anchor="middle" fill="#6EE7B7" font-size="10.5" class="mono">Pepto VIC-II 16-Color</text>
+    <text x="258" y="16" text-anchor="middle" fill="#6EE7B7" font-size="10.5" class="mono">11 Venues + EV Car</text>
 
     <rect x="350" y="0" width="182" height="24" rx="6" fill="#111C2E" stroke="#1E293B" stroke-width="1"/>
-    <text x="441" y="16" text-anchor="middle" fill="#CBD5E1" font-size="10.5" class="mono">13 Circular HUD Faces</text>
+    <text x="441" y="16" text-anchor="middle" fill="#CBD5E1" font-size="10.5" class="mono">GTK4 Widget + 13 HUDs</text>
   </g>
 
   <!-- Footer -->
