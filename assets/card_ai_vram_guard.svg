@@ -32,13 +32,13 @@
   </g>
 
   <!-- Description -->
-  <text x="24" y="88" fill="#CBD5E1" font-size="13.5" class="sans">Lightweight Linux daemon that boosts CPU governors during active AI</text>
-  <text x="24" y="108" fill="#CBD5E1" font-size="13.5" class="sans">sessions and reclaims 100% of idle VRAM from llama.cpp &amp; ComfyUI.</text>
+  <text x="24" y="88" fill="#CBD5E1" font-size="13.5" class="sans">Small stdlib Python daemon that bumps CPU governors during AI coding</text>
+  <text x="24" y="108" fill="#CBD5E1" font-size="13.5" class="sans">sessions and unloads idle models from llama.cpp, ComfyUI, and Ollama.</text>
 
   <!-- Feature Pills -->
   <g transform="translate(24, 128)">
     <rect x="0" y="0" width="172" height="24" rx="6" fill="#111C2E" stroke="#1E293B" stroke-width="1"/>
-    <text x="86" y="16" text-anchor="middle" fill="#86EFAC" font-size="10.5" class="mono">Zero Residual VRAM</text>
+    <text x="86" y="16" text-anchor="middle" fill="#86EFAC" font-size="10.5" class="mono">Frees Idle VRAM</text>
 
     <rect x="180" y="0" width="172" height="24" rx="6" fill="#111C2E" stroke="#1E293B" stroke-width="1"/>
     <text x="266" y="16" text-anchor="middle" fill="#93C5FD" font-size="10.5" class="mono">Auto cpufreq Boost</text>

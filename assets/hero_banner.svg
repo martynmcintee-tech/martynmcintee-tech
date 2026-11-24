@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="1200" height="310" role="img" aria-label="Martyn McIntee — Local AI Architecture, Linux Systems and Hardware Engineering">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" width="1200" height="310" role="img" aria-label="Martyn McIntee - Ubuntu Linux tools, local RTX 3090 models, and hardware tinkering">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#070B14"/>
@@ -84,36 +84,36 @@
 
     <!-- Mini Telemetry Readout under ring -->
     <rect x="53" y="204" width="204" height="26" rx="13" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-    <text x="155" y="221" text-anchor="middle" fill="#94A3B8" font-size="10.5" letter-spacing="0.9" class="mono">24GB VRAM • DIO • LINUX</text>
+    <text x="155" y="221" text-anchor="middle" fill="#94A3B8" font-size="10.5" letter-spacing="0.7" class="mono">RTX 3090 · UBUNTU 24.04</text>
   </g>
 
   <!-- Status Pill -->
   <rect x="48" y="38" width="338" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1.2"/>
   <circle cx="66" cy="52" r="4.5" fill="#10B981" class="pulse"/>
-  <text x="80" y="56" fill="#CBD5E1" font-size="11.5" font-weight="600" letter-spacing="0.5" class="mono">UNITED KINGDOM • @martynmcintee-tech</text>
+  <text x="80" y="56" fill="#CBD5E1" font-size="11.5" font-weight="600" letter-spacing="0.5" class="mono">UNITED KINGDOM · @martynmcintee-tech</text>
 
   <!-- Main Heading -->
   <text x="48" y="118" fill="#F8FAFC" font-size="44" font-weight="800" letter-spacing="-0.8" class="sans">Martyn McIntee</text>
 
   <!-- Subtitle -->
-  <text x="48" y="154" fill="#38BDF8" font-size="16.5" font-weight="600" letter-spacing="0.3" class="sans">Local AI Architecture  ·  Linux Systems &amp; Hardware  ·  Real-Time 3D / XR</text>
+  <text x="48" y="154" fill="#38BDF8" font-size="16.5" font-weight="600" letter-spacing="0.3" class="sans">Ubuntu Desktop Tools  ·  Linux Hardware Tinkering  ·  Local LLMs on 24GB VRAM</text>
 
-  <!-- Concise Engineering Thesis -->
-  <text x="48" y="190" fill="#94A3B8" font-size="14.5" class="sans">Building continual-learning multi-model AI engines on consumer 24GB silicon, low-latency</text>
-  <text x="48" y="212" fill="#94A3B8" font-size="14.5" class="sans">Linux hardware daemons without proprietary bloatware, and interactive simulations.</text>
+  <!-- Summary -->
+  <text x="48" y="190" fill="#94A3B8" font-size="14.5" class="sans">Moved my main PC from Windows to Ubuntu and started writing the missing Linux apps for my</text>
+  <text x="48" y="212" fill="#94A3B8" font-size="14.5" class="sans">desk hardware, plus tools for running local GGUF models on a single 24GB RTX 3090.</text>
 
-  <!-- Bottom Telemetry Strip -->
+  <!-- Bottom Strip -->
   <g transform="translate(48, 244)">
     <rect x="0" y="0" width="244" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-    <text x="14" y="20" fill="#38BDF8" font-size="11.5" font-weight="600" class="mono">AI:</text>
-    <text x="42" y="20" fill="#E2E8F0" font-size="11.5" class="mono">13-Model GGUF + Hebbian</text>
+    <text x="14" y="20" fill="#38BDF8" font-size="11.5" font-weight="600" class="mono">GPU:</text>
+    <text x="52" y="20" fill="#E2E8F0" font-size="11.5" class="mono">RTX 3090 24GB · GGUF</text>
 
     <rect x="254" y="0" width="256" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-    <text x="268" y="20" fill="#818CF8" font-size="11.5" font-weight="600" class="mono">SYS:</text>
-    <text x="304" y="20" fill="#E2E8F0" font-size="11.5" class="mono">Ubuntu 24.04 • Python • Go</text>
+    <text x="268" y="20" fill="#818CF8" font-size="11.5" font-weight="600" class="mono">OS:</text>
+    <text x="298" y="20" fill="#E2E8F0" font-size="11.5" class="mono">Ubuntu 24.04 · Python · Go</text>
 
     <rect x="520" y="0" width="268" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-    <text x="534" y="20" fill="#F59E0B" font-size="11.5" font-weight="600" class="mono">HW/XR:</text>
-    <text x="584" y="20" fill="#E2E8F0" font-size="11.5" class="mono">USB HID • Godot 4 OpenXR</text>
+    <text x="534" y="20" fill="#F59E0B" font-size="11.5" font-weight="600" class="mono">KIT:</text>
+    <text x="572" y="20" fill="#E2E8F0" font-size="11.5" class="mono">V4L2 · OpenLinkHub · GTK4</text>
   </g>
 </svg>
