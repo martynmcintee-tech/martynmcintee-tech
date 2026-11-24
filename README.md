@@ -20,7 +20,7 @@
   <summary><strong>🕹️ Peek Inside — LCP 2026 Live Showcase — 3-Story House, EV Car Commute, Greggs, Pub, Club SID &amp; Glass Knock (480×480)</strong></summary>
   <br/>
   <div align="center">
-    <a href="https://github.com/martynmcintee-tech/corsair-titan-lcd-linux"><img src="https://raw.githubusercontent.com/martynmcintee-tech/corsair-titan-lcd-linux/main/assets/lcp_2026_showcase.gif" width="420" alt="Animated Commodore 64 Little Computer People cutaway house preview" /></a>
+    <a href="https://github.com/martynmcintee-tech/corsair-titan-lcd-linux"><img src="https://raw.githubusercontent.com/martynmcintee-tech/corsair-titan-lcd-linux/main/assets/titan_lcd_real_readme.gif" width="360" alt="Live physical Corsair TITAN 360 RX LCD hardware footage" /></a>&nbsp;&nbsp;<a href="https://github.com/martynmcintee-tech/corsair-titan-lcd-linux"><img src="https://raw.githubusercontent.com/martynmcintee-tech/corsair-titan-lcd-linux/main/assets/lcp_2026_showcase.gif" width="360" alt="Animated 6-scene LCP 2026 pixel feed" /></a>
     <p><em>Rendered in Pepto's authentic 16-color VIC-II palette at ~0.23 ms/frame and pushed over persistent HTTP/1.1 keep-alive to an iCUE LINK System Hub on Linux.</em></p>
   </div>
 </details>
